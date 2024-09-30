@@ -14,6 +14,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
 ["18096630307", '𝙊𝙬𝙣𝙚𝙧 💖', true], //Kitty𝘽𝙤𝙩-MC 💖
+["18495183743"]
 ]
 
 global.mods = []
