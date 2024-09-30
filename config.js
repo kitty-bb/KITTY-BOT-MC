@@ -1,4 +1,4 @@
-import { watchFile, unwatchFile } from "fs"
+yoimport { watchFile, unwatchFile } from "fs"
 import chalk from "chalk"
 import { fileURLToPath } from "url"
 import fs from "fs"
@@ -13,8 +13,8 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["18096630307", '𝙊𝙬𝙣𝙚𝙧 💖', true], //Kitty𝘽𝙤𝙩-MC 💖
-["18495183743"]
+["18495183743", '𝙊𝙬𝙣𝙚𝙧 💖', true], //Kitty𝘽𝙤𝙩-MC 💖
+["8096630307"]
 ]
 
 global.mods = []
