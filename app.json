@@ -1,0 +1,18 @@
+{
+    "name": "Kitty-Bot-MC",
+    "website": "https://github.com/Kuromi098",
+    "description": "Super Bot WhatsApp",
+    "repository": "https://github.com/Kuromi098/KITTY-BOT-MC.git",
+    "logo": "https://qu.ax/mAgd.jpg",
+    "success_url": "https://github.com/Kuromi098/KITTY-BOT-MC",
+    "keywords": [
+    "nodejs", "heroku", "bot", "spanish", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
+    "termux", "superbot", "multi-device", "md", "official", "javascript", "Kitty-bot.cm"],
+    "image": "heroku/nodejs",
+    "buildpacks": [
+    { "url": "heroku/nodejs" },
+    { "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest" },
+    { "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git" },
+    { "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick" }    
+    ]
+    }
